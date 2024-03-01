@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ReactProject1/static/css/main.058f219c.css",
+    "main.js": "/ReactProject1/static/js/main.72a7e716.js",
+    "static/js/592.7f72a991.chunk.js": "/ReactProject1/static/js/592.7f72a991.chunk.js",
+    "static/media/color-sharp.png": "/ReactProject1/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/ReactProject1/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img21.png": "/ReactProject1/static/media/project-img21.11d0f96484a13a0b0fd9.png",
+    "static/media/project-img51.png": "/ReactProject1/static/media/project-img51.841589d390408dd8590f.png",
+    "static/media/meter1.png": "/ReactProject1/static/media/meter1.5e5f7529d5158eea72a5.png",
+    "static/media/project-img31.png": "/ReactProject1/static/media/project-img31.d95aa25cd241c3e21708.png",
+    "static/media/project-img61.png": "/ReactProject1/static/media/project-img61.b9911d915efde01195e1.png",
+    "static/media/project-img11.png": "/ReactProject1/static/media/project-img11.ed2d09c8b4d2483726c9.png",
+    "static/media/contact-img1.jpg": "/ReactProject1/static/media/contact-img1.9d04a19b47939538e63c.jpg",
+    "static/media/project-img41.png": "/ReactProject1/static/media/project-img41.7cc1f3cd0f33fad792f7.png",
+    "static/media/CentraNo2-Bold.ttf": "/ReactProject1/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/ReactProject1/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/ReactProject1/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/ReactProject1/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/NaglaaSaid.jpg": "/ReactProject1/static/media/NaglaaSaid.2e9615a1901491ac9a9a.jpg",
+    "static/media/revicons.eot": "/ReactProject1/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ReactProject1/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ReactProject1/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/ReactProject1/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/ReactProject1/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/ReactProject1/index.html",
+    "static/media/nav-icon1.svg": "/ReactProject1/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/ReactProject1/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/ReactProject1/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/ReactProject1/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.058f219c.css.map": "/ReactProject1/static/css/main.058f219c.css.map",
+    "main.72a7e716.js.map": "/ReactProject1/static/js/main.72a7e716.js.map",
+    "592.7f72a991.chunk.js.map": "/ReactProject1/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.058f219c.css",
+    "static/js/main.72a7e716.js"
+  ]
+}
